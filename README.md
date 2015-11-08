@@ -30,7 +30,7 @@ In 4 connected parts:
 By *mentoring* others and by creating *learning materials*.
 
 **What sort of *learning materials* do we create?**  
-We create *patterns* of knowledge, after the work of Chistopher Alexander, [*A Pattern Language*](https://en.wikipedia.org/wiki/A_Pattern_Language).
+We create [*patterns*](https://en.wikipedia.org/wiki/Pattern_language) of knowledge, after the work of Chistopher Alexander, [*A Pattern Language*](https://en.wikipedia.org/wiki/A_Pattern_Language).
 
 
 
